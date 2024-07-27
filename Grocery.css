@@ -1,0 +1,34 @@
+section {
+  background-color: blanchedalmond;
+  border: 3px solid black;
+  padding: 15px;
+}
+
+.card {
+  background-color: aliceblue;
+  width: 150px;
+}
+.container {
+  display: flex;
+}
+h1 {
+  background-color: blueviolet;
+}
+h1 {
+  text-align: center;
+}
+h1 {
+  -webkit-text-fill-color: crimson;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.freezer {
+  width: 25%;
+}
+img {
+  padding: 20px;
+}
